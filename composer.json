@@ -1,5 +1,5 @@
 {
-    "name": "deitsolutions/yii2-bigcommerce-webhook-manager",
+    "name": "deitsolutions/yii2-bigcommerce-webhooks-manager",
     "description": "Bigcommerce webhooks manage yii2 extension",
     "keywords": [
         "yii2",
@@ -31,7 +31,7 @@
     },
     "autoload": {
         "psr-4": {
-            "deitsolutions\\yii2bigcommercewebhookmanager\\": ""
+            "deitsolutions\\yii2bigcommercewebhooksmanager\\": ""
         }
     },
     "repositories": [
